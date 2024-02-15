@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="20dp" /> <!-- Задайте радиус для округления углов -->
+    <solid android:color="@android:color/transparent" /> <!-- Фон кнопки, например, прозрачный -->
+</shape>
